@@ -1,7 +1,7 @@
 # gdCMD
 Provides a Command Shell Prompt on Windows 2008 (and up) Server using Powershell's PSRemote.
 
-gdCMD v3.3
+Change Log - v3.3
 =====
 
 Provides a Command Shell Prompt on Windows 2008 (and up) Server using Powershell's PSRemote.
