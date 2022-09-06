@@ -2,7 +2,7 @@
 	Provides a Powershell Prompt on Windows 2008 (and up) Server using Powershells PSSession.
 	Author: Jon Thompson
 	Email: jxthompson@godaddy.com
-	Version: 3.3
+	Version: 3.4
 #>
 
 # Setting up Incoming Params
