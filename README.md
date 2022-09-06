@@ -1,10 +1,12 @@
 # gdCMD
 Provides a Command Shell Prompt on Windows 2008 (and up) Server using Powershell's PSRemote.
 
-Change Log - v3.3
+Change Log - v3.4
 =====
 
 Provides a Command Shell Prompt on Windows 2008 (and up) Server using Powershell's PSRemote.
+
+  3.4 - Updated N1 to N3 as all Plesk hosts are now in N3
 
   3.3 - Added Variable Cleaning
 
